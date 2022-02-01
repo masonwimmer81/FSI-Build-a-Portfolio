@@ -1,0 +1,18 @@
+body {
+    background-color: cornflowerblue;
+}
+
+h1{
+    color: rgb(221, 172, 48);
+}
+
+h2{
+    color: coral;
+    background-color: darkgreen;
+    padding: 18px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: black;
+}
+
+
